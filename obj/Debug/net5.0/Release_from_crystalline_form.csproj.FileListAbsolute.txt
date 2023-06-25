@@ -1,0 +1,16 @@
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.exe
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.deps.json
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.runtimeconfig.json
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.runtimeconfig.dev.json
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.dll
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\ref\Release_from_crystalline_form.dll
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\bin\Debug\net5.0\Release_from_crystalline_form.pdb
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.csproj.AssemblyReference.cache
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.AssemblyInfoInputs.cache
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.AssemblyInfo.cs
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.csproj.CoreCompileInputs.cache
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.dll
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\ref\Release_from_crystalline_form.dll
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.pdb
+D:\Дипломная работа\Для диплома\Расчет высвобождения АФИ из кристаллической формы\Release_from_crystalline_form\obj\Debug\net5.0\Release_from_crystalline_form.genruntimeconfig.cache
